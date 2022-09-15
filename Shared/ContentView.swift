@@ -12,13 +12,6 @@ struct ContentView: View {
         
         VStack{
             
-            Image("IOS test img")
-            
-            Text("Hello, world!")
-                .padding()
-            
-            Text("Hello, world again!")
-                .padding()
         }
         
     }
