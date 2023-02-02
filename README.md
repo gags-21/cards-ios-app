@@ -2,6 +2,4 @@
 
 Preview
 
-
-https://user-images.githubusercontent.com/61724325/216368823-882d42e4-65a5-4f3c-890b-089ea1c182f7.mov
-
+![cardApp](https://user-images.githubusercontent.com/61724325/216370210-4654f984-6bc9-41ba-b609-66f7c7f1718c.gif)
